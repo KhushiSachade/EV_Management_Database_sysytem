@@ -1,10 +1,3 @@
---Khushi Sachade(1230662552)
--- Hetvi Patel (1230385431)
---Final Project
--- EV management system
---Group 107
-
-
 INSERT INTO Vehicle (make, model, year, battery_capacity) VALUES
 ('Volkswagen', 'ID.4', 2022, 77),
 ('Mercedes-Benz', 'EQC', 2021, 80),
