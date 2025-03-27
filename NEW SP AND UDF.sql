@@ -1,10 +1,3 @@
---Khushi Sachade(1230662552)
--- Hetvi Patel (1230385431)
---group 107
---Final Project
--- EV mangemnet system
---24 april 2024
-
 --stored procedure and UDF
 
 -- Create stored procedure to get the total energy delivered by a specific vehicle
