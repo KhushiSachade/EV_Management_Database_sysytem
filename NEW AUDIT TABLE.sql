@@ -1,10 +1,3 @@
---Khushi Sachade(1230662552)
--- Hetvi Patel (1230385431)
---Final Project
--- EV mangemnet system
---24 april 2024
---Group_107
-
 --creating audit table
 
 -- Create ManufacturerAudit table
