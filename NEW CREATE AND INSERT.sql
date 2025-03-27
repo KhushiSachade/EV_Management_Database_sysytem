@@ -1,6 +1,3 @@
---Khushi Sachade(1230662552)
--- Hetvi Patel (1230385431)
---Final Project
 -- EV management system
 
 CREATE DATABASE group_107;
