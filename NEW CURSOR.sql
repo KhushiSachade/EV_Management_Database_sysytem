@@ -1,10 +1,3 @@
---Khushi Sachade(1230662552)
--- Hetvi Patel (1230385431)
---group 107
---Final Project
--- EV mangemnet system
---24 april 2024
-
 CREATE PROCEDURE DisplayUsernames
 AS
 BEGIN
